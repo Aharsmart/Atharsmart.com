@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Noto+Kufi+Arabic:wght@400;600;700&display=swap');
+:root{--font-arabic-primary:'Cairo','Noto Kufi Arabic',system-ui,sans-serif;--brand-blue:#007AFF;--brand-green:#00C875;--bg-light:#F7F9FC;--text-dark:#0B1B2B;}
+body{font-family:var(--font-arabic-primary);color:var(--text-dark);background:var(--bg-light);}
+.btn-primary{background:linear-gradient(90deg,var(--brand-blue),var(--brand-green));color:#fff;padding:12px 20px;border-radius:12px;border:none;box-shadow:0 8px 22px rgba(0,122,255,0.18);}

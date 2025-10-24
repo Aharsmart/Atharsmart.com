@@ -1,0 +1,19 @@
+{
+  "brand": {
+    "primary_blue": "#007AFF",
+    "accent_green": "#00C875",
+    "dark": "#0B1B2B",
+    "light_bg": "#F7F9FC",
+    "muted_gray": "#6B7280"
+  },
+  "gradients": {
+    "primary": {
+      "from": "#007AFF",
+      "to": "#00C875"
+    },
+    "hero": {
+      "from": "#E8F2FF",
+      "to": "#F2FFF8"
+    }
+  }
+}
